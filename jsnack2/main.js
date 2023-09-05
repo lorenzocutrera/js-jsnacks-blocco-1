@@ -4,7 +4,7 @@ L’utente inserisce due parole in successione, con due prompt.
 Il software stampa prima la parola più corta, poi la parola più lunga.
 */ 
 
-
+/*
 let wordUno;
 let wordDue;
 
@@ -18,3 +18,12 @@ if(wordUno.length < wordDue.length){
 } else if(wordDue.length < wordUno.length){
     console.log(wordDue, wordUno)
 }
+*/
+
+/*
+BONUS
+(con while) Snack 2:
+L’utente inserisce due parole in successione, con due prompt.
+Il software stampa prima la parola più corta, poi la parola più lunga.
+*/
+
