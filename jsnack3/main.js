@@ -5,10 +5,12 @@ Il programma stampa la somma di tutti i numeri inseriti.
 */
 
 
-
+let sum;
 
 for (let i = 0; i < 10; i++) {
      let number = Number(prompt('digita un numero'));
     console.log(number);
+
+    console.log((sum + number) i < 10: i++);
 }
 
