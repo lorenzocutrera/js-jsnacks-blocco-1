@@ -4,7 +4,7 @@ L’utente inserisce due parole in successione, con due prompt.
 Il software stampa prima la parola più corta, poi la parola più lunga.
 */ 
 
-/*
+
 let wordUno;
 let wordDue;
 
@@ -17,8 +17,10 @@ if(wordUno.length < wordDue.length){
     console.log(wordUno, wordDue);
 } else if(wordDue.length < wordUno.length){
     console.log(wordDue, wordUno)
+} else{
+    console.log('Le due parole hanno la stessa lunghezza');
 }
-*/
+
 
 /*
 BONUS
